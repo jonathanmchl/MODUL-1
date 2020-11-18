@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Heale</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="toolbar_title">HEALE</string>
+    <string name="selamat_datang">Selamat Datang!</string>
+    <string name="medicine">Medicine</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+
+</resources>
